@@ -3,4 +3,3 @@ name: cp-microservice
 description: A Helm chart for a Kubernetes microservice
 type: application
 version: 0.0.2
-appVersion: "0.0.2"
