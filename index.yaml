@@ -2,6 +2,15 @@ apiVersion: v1
 entries:
   cp-microservice:
   - apiVersion: v2
+    created: "2024-02-29T07:18:42.741433372Z"
+    description: A Helm chart for a Kubernetes microservice
+    digest: 0c2acb04e94bee4b355070bbd99deb969844895762a7bef49f9c4b9d8e4dde34
+    name: cp-microservice
+    type: application
+    urls:
+    - https://github.com/mhindery/charts/releases/download/cp-microservice-0.0.3/cp-microservice-0.0.3.tgz
+    version: 0.0.3
+  - apiVersion: v2
     appVersion: 0.0.2
     created: "2024-02-27T13:14:23.246775983Z"
     description: A Helm chart for a Kubernetes microservice
@@ -11,4 +20,4 @@ entries:
     urls:
     - https://github.com/mhindery/charts/releases/download/cp-microservice-0.0.2/cp-microservice-0.0.2.tgz
     version: 0.0.2
-generated: "2024-02-27T13:14:23.246787304Z"
+generated: "2024-02-29T07:18:42.741444352Z"
