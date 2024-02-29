@@ -2,4 +2,4 @@ apiVersion: v2
 name: cp-microservice
 description: A Helm chart for a Kubernetes microservice
 type: application
-version: 0.0.2
+version: 0.0.3
